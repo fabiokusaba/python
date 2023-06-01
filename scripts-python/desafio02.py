@@ -1,0 +1,5 @@
+dia = input('Digite o dia do seu aniversário:')
+mes = input('Digite o mês do seu aniversário:')
+ano = input('Digite o ano em que você nasceu:')
+print(f'Você nasceu no dia {dia} de {mes} de {ano}. Correto?')
+print('Você nasceu no dia', dia, 'de', mes, 'de', ano,'. Correto?')

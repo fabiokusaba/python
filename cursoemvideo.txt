@@ -1,0 +1,5 @@
+Gustavo; 41
+Pedro; 35
+Ana; 22
+Paulo; 95
+Jose; 55 
